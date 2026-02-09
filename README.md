@@ -19,17 +19,10 @@ Aplicación móvil para gestión de tareas desarrollada en Flutter con funcional
 - Filtrado y organización de tareas
 
 ### Tecnologías Utilizadas
-- **Flutter 3.x** - Framework multiplataforma
+- **Flutter** - Framework multiplataforma
 - **Riverpod** - Gestión de estado
-- **HTTP Client** - Conexión a API REST
-- **Shared Preferences** - Almacenamiento local
-- **Material Design 3** - Interfaz de usuario moderna
 
 ### Arquitectura
-- Clean Architecture con separación de responsabilidades
-- State Management con Riverpod
-- Modelos de datos con Equatable
-- Manejo de excepciones personalizado
-- Servicios para comunicación con API
+- Modleo Vista Controlador
 
-## Estructura del Proyecto
+
